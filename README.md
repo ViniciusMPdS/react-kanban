@@ -37,13 +37,13 @@ Este é um aplicativo de gestão de tarefas em formato de quadro Kanban, desenvo
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/kanban-task-manager.git
+   git clone https://github.com/ViniciusMPdS/react-kanban.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd kanban-task-manager
+   cd react-kanban
    ```
 
 3. Instale as dependências:
